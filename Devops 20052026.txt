@@ -1,0 +1,53 @@
+OS is sytem harware manages computer hardware and software resources and it is acting as intermeditery between the user and computer,example windows MAC and Linux. 
+Linus is popular one because it is of open source software 
+Linux is very secure 
+Anti malware software is not required 
+it contains lot of distributions eg: redhat ubandu DBMS
+Linux OS is faster comapre to other OS. 
+
+GUI and CMI
+
+Grafical user interface- looks user friendly but when you want to do more programming or coding CLI will be useful. 
+
+CLI- using CLI you rae able to do. day to day task or any task relate to programming much faster than y can do with GUI. 
+
+Shell and terminal;
+
+shell is a program that takes cmd from key board and use them to OS to perform.
+Terminal is a tool used to pass shell commands.
+
+PWD: present working directory it writes down the complete path name of the present working directory.
+LS: cmd is used to list the files and directories in PWD.
+ls -l: Complete information of file.  
+mkdir: is used to create one or more directrories.
+cd: used to change current directory of terminial. 
+CD..: this is switchig back to previous directory.
+21.05.2026 
+Touch :create a one or more files(empty file).
+VI: the Vi edittor is the most popular and classical text edittor in the Linux family, also used create the the file with content  
+cat: shows content of the file.
+tac: will print the content of the file in reverse order.
+
+22.05.2026
+
+Redrect: it can be used to stadard output to file and it over writes the content if the file dosent exist it will create the file.
+>>: used to redirect standard out put to file, it do not over write the cdontent. if th file dont exixt it wll also create the file. 
+
+Df -h: cmd used to display the disk space used the file system. 
+Head and tail: command linux head command is used to display the first 10 lines of a file or default 
+otail cmd is used to find last 10 lines of a file of default.
+'|" this command we can use for combaining two or more commends. such that out out of one commend serves as input of onother commend .
+Global regular expression print(grep): its used in searching and matching text files and in the regular expression. 
+Move cmd : is used to move files nd dir from one location to another location 
+this comd is used to choose the files are flder which startes or endds with any letter 
+Ls - l: list out the hidden files.
+ls- let s: used to list file latest created.ssss
+cshs cmd used to change the user loin shell.
+chown: changes the ownership of the file or a directory.
+SED: stinf edittor it is used to eddit streams edit reguar expressions, it is used for text substitution activities 
+it cn be used for other txt manuplition operations and delete insert print and move. the set cmd allows us to edit filew without opening them. 
+rm :commend is used to remove files
+Cut: cmd is used cut the files and this is sutiable only for simple text format of 
+awk: cmd handle some what more complex delimeter unaorganised 
+
+
