@@ -49,5 +49,5 @@ it cn be used for other txt manuplition operations and delete insert print and m
 rm :commend is used to remove files
 Cut: cmd is used cut the files and this is sutiable only for simple text format of 
 awk: cmd handle some what more complex delimeter unaorganised 
-
+Abcd
 
